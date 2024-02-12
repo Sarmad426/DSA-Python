@@ -1,6 +1,6 @@
 # Data Structure and Algorithms using **Python**
 
- This repository aims to provide a comprehensive collection of data structures and algorithms implementations in Python. Following along with this repository requires fundamental knowledge of programming in python, for tht checkout this Repository. [Python-OOP](https://github.com/sarmad426/Python-OOP). It covers all the essential topics, do checkout this because this repository assumes essential knowledge of programming.
+ This repository aims to provide a comprehensive collection of data structures and algorithms implementations in Python. Following along with this repository requires fundamental knowledge of programming in python, for that checkout this Repository. [Python-OOP](https://github.com/sarmad426/Python-OOP). It covers all the essential topics, do checkout this because this repository assumes essential knowledge of programming.
 
 ## Table of Contents
 
