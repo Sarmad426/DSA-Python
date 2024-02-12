@@ -44,3 +44,46 @@ Expresses lower bound of an algorithm, measures best case.
 ### Theta Notation &theta;
 
 Express both lower and upper bound.
+
+## Common Asymptotic Notations
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Notation</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Constant</td>
+            <td>0 (1)</td>
+        </tr>
+        <tr>
+            <td>logarithmic</td>
+            <td>O (log n)</td>
+        </tr>
+        <tr>
+            <td>linear</td>
+            <td>O (n)</td>
+        </tr>
+        <tr>
+            <td>n log n</td>
+            <td>O (n log n)</td>
+        </tr>
+         <tr>
+            <td>quadractc</td>
+            <td>O (n<sup>2</sup>)</td>
+        </tr>
+         <tr>
+            <td>cubic</td>
+            <td>O (n<sup>3</sup>)</td>
+        </tr>
+         <tr>
+            <td>polynomial</td>
+            <td>n<sup>O(1)</sup></td>
+        </tr>
+         <tr>
+            <td>exponential</td>
+            <td>2<sup>O(n)</sup></td>
+        </tr>
+    </tbody>
+</table>
