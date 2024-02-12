@@ -23,7 +23,7 @@ Following along with this repository requires fundamental knowledge of programmi
 3. Recursion algorithms
 4. Graph algorithms
 
-#### 1. Search algorithms 
+#### 1. Search algorithms
 
 - Linear Search
 - Binary Search
@@ -36,3 +36,11 @@ Following along with this repository requires fundamental knowledge of programmi
 - Merge Sort
 - Quick Sort
 - Heap Sort
+
+### How to Use This Repository
+
+- **Learning**: If you are new to DSA, start by exploring the theoretical documents to build a strong foundation. Then, dive into the code examples and implement data structures and algorithms from scratch.
+
+- **Leetcode Interview Problems**: Use the Leetcode interview questions section to practice and improve your problem-solving skills. Understand the logic behind each solution and try to solve them independently first.
+
+All of the practical examples are written using **python** programming. If you wanna use **C++** we also have an amazing resource for this. Checkout this repository [DSA-C++](https://github.com/sarmad426/DSA)
