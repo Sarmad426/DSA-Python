@@ -58,6 +58,8 @@ Nested loops has the time complexity of O(n<sup>2</sup>). It depends on the size
 
 Logarithmic time algo is efficient and scalable than linear time.
 
+![Logarithmic and linear time Comparison](logarithmic.png)
+
 ### Exponential
 
 Exponential is the inverse of logarithmic time, it is slow and not scalable for large inputs.
@@ -93,4 +95,4 @@ Exponential is the inverse of logarithmic time, it is slow and not scalable for 
     </tbody>
 </table>
 
-![Growth Rates](growth-rates.jpg)
+![Growth Rates time comparison](growth-rates.jpg)
