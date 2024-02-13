@@ -21,12 +21,12 @@
 - Implementation of greedy algorithms
 - Examples: Minimum spanning tree, Huffman coding, etc.
 
-## 4. Divide and Conquer
+## 4. [Divide and Conquer](./2-Divide-conquer/)
 
 - Implementation of divide and conquer algorithms
 - Examples: Binary search, merge sort, etc.
 
-## 5. Dynamic Programming
+## 5. [Dynamic Programming](./3-Dynamic-programming/)
 
 - Implementation of dynamic programming solutions for various problems
 - Examples: Fibonacci series, knapsack problem, longest common subsequence, etc.
