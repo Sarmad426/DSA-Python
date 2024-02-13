@@ -56,20 +56,21 @@
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 
-### 3. Dynamic Programming
-
-- Implementation of dynamic programming solutions for various problems
-- Examples: Fibonacci series, knapsack problem, longest common subsequence, etc.
-
-### 4. Greedy Algorithms
+### 3. [Greedy Algorithms](/1-Basics/2-Algorithms/2-Algo-types/1-Greedy-algo/)
 
 - Implementation of greedy algorithms
 - Examples: Minimum spanning tree, Huffman coding, etc.
 
-### 5. Divide and Conquer
+### 4. [Divide and Conquer](/1-Basics/2-Algorithms/2-Algo-types/2-Divide-conquer/)
 
 - Implementation of divide and conquer algorithms
 - Examples: Binary search, merge sort, etc.
+
+### 5. [Dynamic Programming](/1-Basics/2-Algorithms/2-Algo-types/3-Dynamic-programming/)
+
+- Implementation of dynamic programming solutions for various problems
+- Examples: Fibonacci series, knapsack problem, longest common subsequence, etc.
+
 
 ### How to Use This Repository
 
