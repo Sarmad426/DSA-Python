@@ -70,7 +70,7 @@ Express both lower and upper bound.
             <td>O (n log n)</td>
         </tr>
          <tr>
-            <td>quadractc</td>
+            <td>quadratic</td>
             <td>O (n<sup>2</sup>)</td>
         </tr>
          <tr>
@@ -83,7 +83,7 @@ Express both lower and upper bound.
         </tr>
          <tr>
             <td>exponential</td>
-            <td>2<sup>O(n)</sup></td>
+            <td>O(2<sup>n</sup>)</td>
         </tr>
     </tbody>
 </table>
