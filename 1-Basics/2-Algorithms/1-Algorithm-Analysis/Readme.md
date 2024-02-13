@@ -87,3 +87,48 @@ Express both lower and upper bound.
         </tr>
     </tbody>
 </table>
+
+## Time Complexity
+
+- **Definition**: Quantifies the time an algorithm takes to run in relation to input size.
+- **Purpose**: Evaluates how execution time grows as input size increases.
+
+## Space Complexity
+
+- **Definition**: Measures the memory space an algorithm uses concerning its input size.
+- **Purpose**: Assesses memory efficiency and resource constraints.
+
+## Big O Notation
+
+- **Definition**: Represents the upper bound on an algorithm's resource usage growth rate.
+- **Purpose**: Simplifies worst-case time or space complexity representation.
+
+## Best, Worst, and Average Cases
+
+- **Definition**: Algorithms may perform differently based on input scenarios.
+- **Purpose**: Comprehensive analysis considering best, worst, and average-case complexities.
+
+## Constant Time (O(1))
+
+- **Definition**: Algorithms with fixed execution time, irrespective of input size.
+- **Purpose**: Highly efficient for quick operations.
+
+## Linear Time (O(n))
+
+- **Definition**: Execution time proportional to input size.
+- **Purpose**: Suitable for scalable tasks with linear growth.
+
+## Logarithmic Time (O(log n))
+
+- **Definition**: Divides input into smaller portions with each step.
+- **Purpose**: Efficient for large datasets with quick access.
+
+## Polynomial Time (O(n<sup>k</sup>))
+
+- **Definition**: Execution time increases with input size, governed by the degree 'k'.
+- **Purpose**: Useful for problems with known polynomial growth rates.
+
+## Exponential Time (O(2<sup>n</sup>))
+
+- **Definition**: Execution time grows exponentially with input size.
+- **Purpose**: Impractical for large inputs due to rapid growth.
