@@ -10,24 +10,29 @@
 ## Data Structures
 
 ### 1. Linked List
+
 - Implementation of a singly linked list
 - Implementation of a doubly linked list
 - Operations: insertion, deletion, traversal, etc.
 
 ### 2. Stack
+
 - Implementation of a stack using arrays and linked lists
 - Operations: push, pop, peek, etc.
 
 ### 3. Queue
+
 - Implementation of a queue using arrays and linked lists
 - Operations: enqueue, dequeue, peek, etc.
 
 ### 4. Tree
+
 - Implementation of various tree data structures: binary tree, binary search tree, AVL tree, etc.
 - Tree traversal algorithms: inorder, preorder, postorder
 - Operations: insertion, deletion, searching, etc.
 
 ### 5. Graph
+
 - Implementation of graph data structure
 - Graph traversal algorithms: BFS, DFS
 - Shortest path algorithms: Dijkstra's algorithm, Bellman-Ford algorithm
@@ -65,7 +70,6 @@
 
 - Implementation of divide and conquer algorithms
 - Examples: Binary search, merge sort, etc.
-
 
 ### How to Use This Repository
 
