@@ -44,4 +44,4 @@ Time is measured by counting the number of key operations such as comparisons in
 
 Space is measured by counting the maximum memory space required by the algorithm.
 
-Next [Analysis-of-Algorithms](./Analysis-of-Algorithms/)
+Next [Analysis-of-Algorithms](./1-Algorithm-Analysis/)
