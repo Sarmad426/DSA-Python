@@ -20,7 +20,7 @@ function linear_search(list, target):
 
 ## Time Complexity
 
-The time complexity of linear search is O(n), where n is the number of elements in the list. This is because, in the worst-case scenario, the algorithm may have to iterate through all elements of the list to find the target element.
+The time complexity of linear search is **O(n)**, where n is the number of elements in the list. This is because, in the worst-case scenario, the algorithm may have to iterate through all elements of the list to find the target element.
 
 ## Implementation in Python
 
