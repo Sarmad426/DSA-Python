@@ -1,7 +1,6 @@
 # Data Structures
 
-Data Structure is a systematic way to organize data in order to use it efficiently. Following 
-terms are the foundation terms of a data structure.
+Data Structure is a systematic way to organize data in order to use it efficiently. Following terms are the foundation terms of a data structure.
 
 **Interface:**
 Each data structure has an interface that represents the list of operations, type of parameters they accept.
@@ -19,24 +18,22 @@ Internal representation and definition of an algorithm.
 
 ### Need For Data Structure
 
-- **Data Search**   
+- **Data Search**
 Search data efficiently from large data sets.
 
-- **Processor Speed**   
+- **Processor Speed**
 Less impact on processor performance
 
-- **Multiple requests**    
+- **Multiple requests**
 Handle multiple search requests simultaneously
 
 ## Execution time cases
 
-There are three cases which are usually used to compare various data structure's execution 
-time in a relative manner.
+There are three cases which are usually used to compare various data structure's execution time in a relative manner.
 
 ### 1. Worst Case
 
-This is the scenario where a particular data structure operation takes maximum time it can take. If an operation's worst case time is ƒ(n) then this operation will not take more than ƒ(n) time, where ƒ(n) represents function 
-of n.
+This is the scenario where a particular data structure operation takes maximum time it can take. If an operation's worst case time is ƒ(n) then this operation will not take more than ƒ(n) time, where ƒ(n) represents function of n.
 
 ### 2. Average Case
 
@@ -44,5 +41,4 @@ This is the scenario depicting the average execution time of an operation of a d
 
 ### 3. Best Case
 
-This is the scenario depicting the least possible execution time of an operation of a data structure. If an operation takes ƒ(n) time in execution, then the actual operation may take time as the random number which would be 
-maximum as ƒ(n).
+This is the scenario depicting the least possible execution time of an operation of a data structure. If an operation takes ƒ(n) time in execution, then the actual operation may take time as the random number which would be maximum as ƒ(n).
