@@ -1,9 +1,9 @@
 # Algorithms
 
-Algorithm is a step-by-step procedure, which defines a set of instructions to be executed 
-in a certain order to get the desired output.
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output.
 
 **Categories:**
+
 - Insert
 - Update
 - Sort
@@ -26,7 +26,7 @@ There are no well-defined standards for writing algorithms. Rather, it is proble
 
 **Problem** − Design an algorithm to add two numbers and display the result.
 
-```
+```algo
 step 1 − START ADD
 step 2 − get values of a & b
 step 3 − c ← a + b
@@ -44,4 +44,4 @@ Time is measured by counting the number of key operations such as comparisons in
 
 Space is measured by counting the maximum memory space required by the algorithm.
 
-Read [Analysis-of-Algorithms](./Analysis-of-Algorithms/)
+Next [Analysis-of-Algorithms](./Analysis-of-Algorithms/)
