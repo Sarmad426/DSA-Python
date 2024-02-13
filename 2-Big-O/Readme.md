@@ -1,10 +1,10 @@
 # Big O Notation
 
-Big O describes the performance of an algorithm as the input grows larger. It checks whether the algorithm is scalable as the input size is increased.
+Big O describes the performance of an algorithm as the input grows larger. It checks whether the algorithm is scalable as the input size is increased. **O** is for **Order of magnitude of complexity**. **(n)** is for **A function of the size**.
 
 **Notation:** O(n)
 
-- ## O(1) Example
+- ## O(1) Example Constant time
 
 ```python
 nums: list[int] = [11,46,15,27,30]
