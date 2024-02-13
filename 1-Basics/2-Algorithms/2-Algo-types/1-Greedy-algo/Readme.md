@@ -18,7 +18,7 @@ And finally, the selection of one € 1 coins solves the problem
 
 Though, it seems to be working fine, for this count we need to pick only 4 coins. But if we slightly change the problem then the same approach may not be able to produce the same optimum result.
 
-For the currency system, where we have coins of 1, 7, 10 value, counting coins for value 18 will be absolutely optimum but for count like 15, it may use more coins than necessary. For example, the greedy approach will use 10 + 1 + 1 + 1 + 1 + 1, total 6 coins. Whereas the same problem could be solved by using only 3 coins (7 + 7 + 1)
+For the currency system, where we have coins of `1, 7, 10` value, counting coins for value 18 will be absolutely optimum but for count like 15, it may use more coins than necessary. For example, the greedy approach will use `10 + 1 + 1 + 1 + 1 + 1`, total 6 coins. Whereas the same problem could be solved by using only 3 coins `(7 + 7 + 1)`
 Hence, we may conclude that the greedy approach picks an immediate optimized solution and may fail where global optimization is a major concern.
 
 ### Examples
