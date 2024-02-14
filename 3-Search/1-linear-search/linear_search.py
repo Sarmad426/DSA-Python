@@ -16,8 +16,8 @@ def linear_search(items: list[int], target: int) -> Optional[int]:
     Returns:
     int: if target exist in items, returns its index, otherwise returns -1
     """
-    for item in items:
-        if item == target:
+    for item in range(len(items)):
+        if items[item] == target:
             return item
     return None
 
