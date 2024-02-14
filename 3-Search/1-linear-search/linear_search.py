@@ -22,7 +22,7 @@ def linear_search(items: list[int], target: int) -> Optional[int]:
     return None
 
 
-items = [11, 35, 23, 45, 16, 29]
+items = [11, 15, 13, 7, 9, 16, 19, 25, 17, 46, 99, 105]
 
 search = int(input("Search for an item: "))
 
