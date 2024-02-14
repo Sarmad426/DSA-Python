@@ -33,7 +33,8 @@ def binary_search(items: list[int], target: int) -> Optional[int]:
     return None
 
 
-items = [i for i in range(10)]
+# Sorted List
+items = [11, 15, 23, 37, 45, 46, 49, 79, 83, 95, 99, 100]
 
 search = int(input("Search an item: "))
 
