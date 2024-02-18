@@ -12,11 +12,11 @@ def selection_sort(items: list[int]):
     - sorts the list and returns it
     """
     for i in range(len(items) - 1):
-        min = i
+        min_num = i
         for j in range(i + 1, len(items)):
-            if items[j] < items[min]:
-                min = j
-        items[i], items[min] = items[min], items[i]
+            if items[j] < items[min_num]:
+                min_num = j
+        items[i], items[min_num] = items[min_num], items[i]
 
     return items
 
