@@ -3,7 +3,7 @@ Insertion sort Python code
 """
 
 
-def insertion_sort(items: list[int]) -> list[int] | None:
+def insertion_sort(items: list[int]) -> list[int]:
     """
     Insertion Sort algorithm
 

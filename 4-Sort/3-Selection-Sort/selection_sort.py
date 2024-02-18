@@ -3,7 +3,7 @@ Selection Sort algorithm
 """
 
 
-def selection_sort(items: list[int]):
+def selection_sort(items: list[int]) -> list[int]:
     """
     Sorts the list using selection sort algorithm
 
