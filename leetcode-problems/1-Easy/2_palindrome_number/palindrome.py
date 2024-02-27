@@ -11,6 +11,8 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
+        if x == 0:
+            return True
         temp = str(x)
         string = ""
         while x > 0:
