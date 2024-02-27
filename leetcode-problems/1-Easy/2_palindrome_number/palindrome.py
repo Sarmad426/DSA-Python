@@ -3,7 +3,7 @@ Leetcode Palindrome number (Easy)
 """
 
 
-class Solution(object):
+class CheckPalindrome(object):
     """Palindrome number solution"""
 
     def is_palindrome(self, x):
