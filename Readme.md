@@ -1,6 +1,6 @@
 # Data Structure and Algorithms using **Python**
 
- This repository aims to provide a comprehensive collection of data structures and algorithms implementations in Python. Following along with this repository requires fundamental knowledge of programming in python, for that checkout this Repository. [Python-OOP](https://github.com/sarmad426/Python-OOP). It covers all the essential topics, do checkout this because this repository assumes essential knowledge of programming.
+This repository aims to provide a comprehensive collection of data structures and algorithms implementations in Python. Following along with this repository requires fundamental knowledge of programming in python, for that checkout this Repository. [Python](https://github.com/sarmad426/Python)
 
 ## Table of Contents
 
@@ -8,6 +8,8 @@
 - [Algorithms](#algorithms)
 
 ## Data Structures
+
+A data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently.
 
 ### 1. Linked List
 
@@ -39,6 +41,8 @@
 - Minimum spanning tree algorithms: Prim's algorithm, Kruskal's algorithm
 
 ## Algorithms
+
+An algorithm is a step-by-step procedure or formula for solving a problem.
 
 ### 1. Sorting Algorithms
 
@@ -78,3 +82,15 @@
 - **Leetcode Interview Problems**: Use the Leetcode interview questions section to practice and improve your problem-solving skills. Understand the logic behind each solution and try to solve them independently first.
 
 All of the practical examples are written using **python** programming. If you wanna use **C++** we also have an amazing resource for this. Checkout this repository [DSA-C++](https://github.com/sarmad426/DSA)
+
+### Learning Resources
+
+**Python**: <https://github.com/sarmad426/Python>
+
+**Python Projects**: <https://github.com/Sarmad426/Python-projects>
+
+Back end **API** development using **Fast API**: <https://github.com/Sarmad426/FastAPI>
+
+Learn **AI** and **Data Science**: <https://github.com/Sarmad426/AI>
+
+Learn **Generative AI**: <https://github.com/Sarmad426/Generative-AI>
